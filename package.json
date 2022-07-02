@@ -9,6 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "csv-parse": "^5.2.2",
     "express": "^4.17.1",
     "uuid": "^8.3.2"
   },
